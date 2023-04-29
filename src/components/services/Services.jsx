@@ -6,27 +6,27 @@ const UxUiServices = [
   {
     id: 1,
     icon: <BiCheck />,
-    service: "Lorem ipsum dolor sit amet consectetur.",
+    service: "Designing Figma wireframes, and then prototypes.",
   },
   {
     id: 2,
     icon: <BiCheck />,
-    service: "Lorem ipsum dolor sit amet consectetur.",
+    service: "Using empathy tools to relate to the users emotions for a more authentic experience.",
   },
   {
     id: 3,
     icon: <BiCheck />,
-    service: "Lorem ipsum dolor sit amet consectetur.",
+    service: "Creating mood boards to design a theme for the app/webpage.",
   },
   {
     id: 4,
     icon: <BiCheck />,
-    service: "Lorem ipsum dolor sit amet consectetur.",
+    service: "Coding with accessibility in mind.",
   },
   {
     id: 5,
     icon: <BiCheck />,
-    service: "Lorem ipsum dolor sit amet consectetur.",
+    service: "Running usability tests.",
   },
 ]
 
@@ -34,55 +34,22 @@ const webServices = [
   {
     id: 1,
     icon: <BiCheck />,
-    service: "Lorem ipsum dolor sit amet consectetur.",
+    service: "Coding websites using HTML and CSS",
   },
   {
     id: 2,
     icon: <BiCheck />,
-    service: "Lorem ipsum dolor sit amet consectetur.",
+    service: "Creating apps using JavaScript and Jsx in React",
   },
   {
     id: 3,
     icon: <BiCheck />,
-    service: "Lorem ipsum dolor sit amet consectetur.",
+    service: "Coding with accessibility in mind.",
   },
   {
     id: 4,
     icon: <BiCheck />,
-    service: "Lorem ipsum dolor sit amet consectetur.",
-  },
-  {
-    id: 5,
-    icon: <BiCheck />,
-    service: "Lorem ipsum dolor sit amet consectetur.",
-  },
-]
-
-const contentCreatorServices = [
-  {
-    id: 1,
-    icon: <BiCheck />,
-    service: "Lorem ipsum dolor sit amet consectetur.",
-  },
-  {
-    id: 2,
-    icon: <BiCheck />,
-    service: "Lorem ipsum dolor sit amet consectetur.",
-  },
-  {
-    id: 3,
-    icon: <BiCheck />,
-    service: "Lorem ipsum dolor sit amet consectetur.",
-  },
-  {
-    id: 4,
-    icon: <BiCheck />,
-    service: "Lorem ipsum dolor sit amet consectetur.",
-  },
-  {
-    id: 5,
-    icon: <BiCheck />,
-    service: "Lorem ipsum dolor sit amet consectetur.",
+    service: "Writing unit tests, integration tests, and end to end tests",
   },
 ]
 
@@ -104,7 +71,7 @@ const Services = () => {
                 <icon className="service__list-icon">
                   {service.icon}
                 </icon>
-                <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                <p>{service.service}</p>
               </li>
             </ul>
           ))}
@@ -121,24 +88,7 @@ const Services = () => {
                 <icon className="service__list-icon">
                   {service.icon}
                 </icon>
-                <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
-              </li>
-            </ul>
-          ))}
-        </article>
-
-        <article className='service'>
-          <div className='service__head'>
-            <h3>Content Creation</h3>
-          </div>
-
-          {contentCreatorServices.map((service) => (
-            <ul className='service__list' key={service.id}>
-              <li>
-                <icon className="service__list-icon">
-                  {service.icon}
-                </icon>
-                <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                <p>{service.service}</p>
               </li>
             </ul>
           ))}
