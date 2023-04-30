@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/kousco-portfolio/static/css/main.82b0c9cc.css",
-    "main.js": "/kousco-portfolio/static/js/main.103dae4b.js",
+    "main.js": "/kousco-portfolio/static/js/main.363f49ab.js",
     "static/media/JoePhoto1.png": "/kousco-portfolio/static/media/JoePhoto1.892da449b7ad84734e38.png",
     "static/media/JoePhoto2.jpg": "/kousco-portfolio/static/media/JoePhoto2.ad5765e43b82a1eb283a.jpg",
-    "static/media/cv.pdf": "/kousco-portfolio/static/media/cv.1676dcdc83730930d888.pdf",
     "static/media/porfolio-image4.jpg": "/kousco-portfolio/static/media/porfolio-image4.67096061e2d46e28c435.jpg",
     "static/media/porfolio-image3.jpg": "/kousco-portfolio/static/media/porfolio-image3.109790ee0c4f3b168dbf.jpg",
     "static/media/porfolio-image6.jpg": "/kousco-portfolio/static/media/porfolio-image6.ffc43c1b531d27c6ff6b.jpg",
     "static/media/porfolio-image1.jpg": "/kousco-portfolio/static/media/porfolio-image1.e134bd2acafa7773c5d0.jpg",
     "static/media/porfolio-image2.jpg": "/kousco-portfolio/static/media/porfolio-image2.03c0708f481de71cd220.jpg",
     "static/media/porfolio-image5.jpg": "/kousco-portfolio/static/media/porfolio-image5.fdd85730f54868b1f1ac.jpg",
+    "static/media/cv.pdf": "/kousco-portfolio/static/media/cv.94ada3fe8b2d0c22201a.pdf",
     "static/media/profile-picture.png": "/kousco-portfolio/static/media/profile-picture.f2ae27a5c2b89023cf02.png",
     "static/media/profile-picture2.png": "/kousco-portfolio/static/media/profile-picture2.5b0deb83c0c472675bb1.png",
     "static/media/profile-picture4.png": "/kousco-portfolio/static/media/profile-picture4.0614f447f0de29b29bf1.png",
     "static/media/profile-picture3.png": "/kousco-portfolio/static/media/profile-picture3.cf7f1f19502586b51f9d.png",
     "index.html": "/kousco-portfolio/index.html",
     "main.82b0c9cc.css.map": "/kousco-portfolio/static/css/main.82b0c9cc.css.map",
-    "main.103dae4b.js.map": "/kousco-portfolio/static/js/main.103dae4b.js.map"
+    "main.363f49ab.js.map": "/kousco-portfolio/static/js/main.363f49ab.js.map"
   },
   "entrypoints": [
     "static/css/main.82b0c9cc.css",
-    "static/js/main.103dae4b.js"
+    "static/js/main.363f49ab.js"
   ]
 }
