@@ -51,6 +51,11 @@ const webServices = [
     icon: <BiCheck />,
     service: "Writing unit tests, integration tests, and end to end tests",
   },
+  {
+    id: 5,
+    icon: <BiCheck />,
+    service: "Using API's in my code to impliment complex code",
+  },
 ]
 
 const Services = () => {

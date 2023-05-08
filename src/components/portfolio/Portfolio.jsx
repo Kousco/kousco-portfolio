@@ -1,11 +1,11 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/porfolio-image1.jpg'
-import IMG2 from '../../assets/porfolio-image2.jpg'
-import IMG3 from '../../assets/porfolio-image3.jpg'
-import IMG4 from '../../assets/porfolio-image4.jpg'
-import IMG5 from '../../assets/porfolio-image5.jpg'
-import IMG6 from '../../assets/porfolio-image6.jpg'
+import IMG1 from '../../assets/portfolio-image1.png'
+import IMG2 from '../../assets/portfolio-image2.png'
+import IMG3 from '../../assets/portfolio-image3.png'
+import IMG4 from '../../assets/portfolio-image4.jpg'
+import IMG5 from '../../assets/portfolio-image5.jpg'
+import IMG6 from '../../assets/portfolio-image6.jpg'
 
 const itemData = [
   {
@@ -25,28 +25,28 @@ const itemData = [
   {
     id: 3,
     image: IMG3,
-    title: "Project In Progress",
+    title: "TBC Church Website (Under Development...)",
     github:"https://github.com",
     demo: "https://github.com",
   },
   {
     id: 4,
     image: IMG4,
-    title: "Project In Progress",
+    title: "Project In Progress...",
     github:"https://github.com",
     demo: "https://github.com",
   },
   {
     id: 5,
     image: IMG5,
-    title: "Project In Progress",
+    title: "Project In Progress...",
     github:"https://github.com",
     demo: "https://github.com",
   },
   {
     id: 6,
     image: IMG6,
-    title: "Project In Progress",
+    title: "Project In Progress...",
     github:"https://github.com",
     demo: "https://github.com",
   }
