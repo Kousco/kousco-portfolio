@@ -3,7 +3,7 @@ import './portfolio.css'
 import IMG1 from '../../assets/portfolio-image1.png'
 import IMG2 from '../../assets/portfolio-image2.png'
 import IMG3 from '../../assets/portfolio-image3.png'
-import IMG4 from '../../assets/portfolio-image4.jpg'
+import IMG4 from '../../assets/portfolio-image4.png'
 import IMG5 from '../../assets/portfolio-image5.jpg'
 import IMG6 from '../../assets/portfolio-image6.jpg'
 
@@ -25,14 +25,14 @@ const itemData = [
   {
     id: 3,
     image: IMG3,
-    title: "TBC Church Website (Under Development...)",
-    github:"https://github.com",
-    demo: "https://github.com",
+    title: "Metaversus Concept",
+    github:"https://github.com/Kousco/metaversus-concept",
+    demo: "https://kousco.github.io/metaversus-concept/",
   },
   {
     id: 4,
     image: IMG4,
-    title: "Project In Progress...",
+    title: "TBC Church Website (Under Development...)",
     github:"https://github.com",
     demo: "https://github.com",
   },
