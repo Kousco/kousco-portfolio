@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kousco-portfolio/static/css/main.82b0c9cc.css",
-    "main.js": "/kousco-portfolio/static/js/main.5eed560c.js",
+    "main.js": "/kousco-portfolio/static/js/main.cd83a242.js",
     "static/media/JoePhoto1.png": "/kousco-portfolio/static/media/JoePhoto1.892da449b7ad84734e38.png",
     "static/media/JoePhoto2.jpg": "/kousco-portfolio/static/media/JoePhoto2.ad5765e43b82a1eb283a.jpg",
     "static/media/portfolio-image4.png": "/kousco-portfolio/static/media/portfolio-image4.5d6c4f8bde66f1f7619d.png",
@@ -10,17 +10,17 @@
     "static/media/portfolio-image1.png": "/kousco-portfolio/static/media/portfolio-image1.b3c11c4a07550c447970.png",
     "static/media/portfolio-image6.jpg": "/kousco-portfolio/static/media/portfolio-image6.ffc43c1b531d27c6ff6b.jpg",
     "static/media/portfolio-image5.jpg": "/kousco-portfolio/static/media/portfolio-image5.fdd85730f54868b1f1ac.jpg",
-    "static/media/cv.pdf": "/kousco-portfolio/static/media/cv.94ada3fe8b2d0c22201a.pdf",
+    "static/media/CV.pdf": "/kousco-portfolio/static/media/CV.dfd3a73349f7b60b60ba.pdf",
     "static/media/profile-picture.png": "/kousco-portfolio/static/media/profile-picture.f2ae27a5c2b89023cf02.png",
     "static/media/profile-picture2.png": "/kousco-portfolio/static/media/profile-picture2.5b0deb83c0c472675bb1.png",
     "static/media/profile-picture4.png": "/kousco-portfolio/static/media/profile-picture4.0614f447f0de29b29bf1.png",
     "static/media/profile-picture3.png": "/kousco-portfolio/static/media/profile-picture3.cf7f1f19502586b51f9d.png",
     "index.html": "/kousco-portfolio/index.html",
     "main.82b0c9cc.css.map": "/kousco-portfolio/static/css/main.82b0c9cc.css.map",
-    "main.5eed560c.js.map": "/kousco-portfolio/static/js/main.5eed560c.js.map"
+    "main.cd83a242.js.map": "/kousco-portfolio/static/js/main.cd83a242.js.map"
   },
   "entrypoints": [
     "static/css/main.82b0c9cc.css",
-    "static/js/main.5eed560c.js"
+    "static/js/main.cd83a242.js"
   ]
 }
